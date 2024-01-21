@@ -1,0 +1,1 @@
+print("This file 22mci20120.py belongs to the 22mci2-[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[A[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[0120 folder")
